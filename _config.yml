@@ -3,4 +3,4 @@ description: A landing page and collection of resources for a movement towards m
 theme: jekyll-theme-minimal
 
 url: https://ajkt.github.io/sysreviewlution
-
+baseurl: "/"
