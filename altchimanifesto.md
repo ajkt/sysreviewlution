@@ -12,7 +12,7 @@ This manifesto advocates for community-driven efforts towards figuring out what 
 * ACM Digital Library: [doi: 10.1145/3544549.3582733](https://doi.org/10.1145/3544549.3582733)
 * arXiv PDF: [arXiv:2304.13556](https://arxiv.org/abs/2304.13556v1)
 * [Pre-recorded presentation video](https://youtu.be/Bgu65eJwmQ4)
-* [Presentation slides]({% link /assets/files/altchi-presentation-systematic-reviewlution-live.pdf %}) from CHI 2023's alt.chi session (different from pre-recorded version)
+* [Presentation slides]({{ site.baseurl }}/assets/files/altchi-presentation-systematic-reviewlution-live.pdf) from CHI 2023's alt.chi session (different from pre-recorded version)
 * Informal survey of community opinions: [https://bit.ly/3oBteKA](https://bit.ly/3oBteKA) *(results will be summarized on this page in a few weeks)*
 
 
