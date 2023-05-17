@@ -13,7 +13,8 @@ This manifesto advocates for community-driven efforts towards figuring out what 
 * arXiv PDF: [arXiv:2304.13556](https://arxiv.org/abs/2304.13556v1)
 * [Pre-recorded presentation video](https://youtu.be/Bgu65eJwmQ4)
 * [Presentation slides]({{ site.baseurl }}/assets/files/altchi-presentation-systematic-reviewlution-live.pdf) from CHI 2023's alt.chi session (different from pre-recorded version)
-* Informal survey of community opinions: [https://bit.ly/3oBteKA](https://bit.ly/3oBteKA) *(results will be summarized on this page in a few weeks)*
+
+We also carried out an <a href="{{ site.baseurl }}/informalsurvey2023.md">informal survey of community opinions</a> alongside this presentation.
 
 
 # Too Long, Didn't Read:
@@ -28,11 +29,4 @@ We see a broad range of differing opinions and expectations when it comes to res
 * **Publishing Ecosystem (Venues & Subcommittees)**: There aren't really any places that explicitly welcome and provide clear expectations for systematic reviews. *Update: The very new Journal of Visualization and Interaction explicitly mentions that systematic reviews are welcome, although what this looks like is not clearly defined (yet).* 
 * **Infrastructure (Digital Libraries and Tools, e.g., Machine Learning)**: There is little documentation about the relevance, coverage, and inner workings of HCI's most commonly used databases. There could also be potential for the use of automated and semi-automated tools in various steps of the systematic review process, but what risks and issues this can introduce is unclear. Finally, living reviews may benefit from HCI expertise; this is something we should leverage and investigate. 
 
-# Informal Survey: Community Responses
-
-As part of the alt.chi presentation, but also advertised through social media unrelated to the conference, we are gathering community responses on what HCI expects from systematic reviews. 
-
-The survey is available here: [https://bit.ly/3oBteKA](https://bit.ly/3oBteKA) 
-
-*We will summarize the results here in a few weeks (aiming for end of May).* 
  
